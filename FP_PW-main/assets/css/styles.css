@@ -1,0 +1,86 @@
+.bg-purple {
+  background-color: #6b21a8;
+}
+.bg-orange {
+  background-color: #fe7163;
+}
+.bg-orange:hover {
+  background-color: #fe6363;
+}
+.ks1 {
+  background-image: url("/assets/img/2d.jpg") !important;
+}
+.pmb {
+  
+  max-width: 75%;
+  height: auto;
+  
+
+}
+
+.lgf{
+  background-color: #eeeeee;
+}
+
+#bt{
+  
+  
+  text-align: center;
+ 
+}
+.tf{color: white;}
+.tf:hover {
+  color: #FFA900;
+}
+.nu{
+
+  /* From https://css.glass */
+background: rgba(255, 255, 255, 0.19);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(2.2px);
+-webkit-backdrop-filter: blur(2.2px);
+border: 1px solid rgba(255, 255, 255, 0.21); 
+}
+#kosen {
+  width: 15rem;
+
+}
+
+.Akademik{
+  margin-top: 5rem;
+}
+#ka{
+  color: white
+  ;
+}
+
+.amig{ 
+  color: black;
+  text-decoration: none;}
+
+#folo{
+  margin-top: 1.5rem;
+  width: 100%;
+  background-color: #FFA900;
+}
+
+.logos{
+  text-decoration: none;
+  color: black;
+}
+
+#un{
+  font-size: xx-large;
+}
+
+.mo:hover{color: #FFA900;}
+
+.a{
+  color: white;
+  font-weight: 500;
+}
+.mo {
+  color: white;
+  font-weight: 500;
+}
